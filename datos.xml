@@ -1,0 +1,29 @@
+<videojuegos>
+	<videojuego>
+		<titulo>The legend of Zelda</titulo>
+		<precio moneda="Euros">59.88</precio>
+		<anyo>1999</anyo>
+		<compania>
+			<nombre>Nintendo</nombre>
+			<pais>Japón</pais>
+		</compania>
+	</videojuego>
+	<videojuego>
+		<titulo>Metal Gear Solid</titulo>
+		<precio moneda="Dolares">24.56</precio>
+		<anyo>2001</anyo>
+		<compania>
+			<nombre>KONAMI</nombre>
+			<pais>Japón</pais>
+		</compania>
+	</videojuego>
+	<videojuego>
+		<titulo>El rey león</titulo>
+		<precio moneda="Euros">14.23</precio>
+		<anyo>1989</anyo>
+		<compania>
+			<nombre>KONAMI</nombre>
+			<pais>Japón</pais>
+		</compania>
+	</videojuego>
+</videojuegos>
